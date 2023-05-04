@@ -169,8 +169,8 @@ Additional Resources
 
 Connect with experts by using any of the following method:
 
-Email: [hr765259@dal.ca](mailto:hr765259@dal.ca)
+Email: [am854663@dal.ca](mailto:am854663@dal.ca)
 
 Our team is available to answer any questions or concerns you may have. Don't hesitate to reach out to us - we're here to help!## **Bid 4 Good** [Link](http://csci5308vm5.research.cs.dal.ca:5173/)
 
-Jira link : https://harsh599.atlassian.net/jira/software/c/projects/CAG/boards/1
+
