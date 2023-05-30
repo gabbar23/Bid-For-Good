@@ -1,0 +1,6 @@
+FrontEnd/node_modules
+server/node_modules
+.env
+.idea
+server/.nyc_output
+.DS_Store
